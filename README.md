@@ -69,3 +69,6 @@ Context API manages transaction state
 Data is stored in localStorage
 Charts are generated dynamically from data
 Role system controls UI access (Viewer / Admin)
+
+
+Live Demo:https://finance-dashboard-eight-peach.vercel.app/
