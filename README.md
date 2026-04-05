@@ -19,16 +19,6 @@ Context API
 Recharts
 Lucide React
 
-
- Styling (Tailwind CSS):
-This project uses Tailwind CSS for styling.
-Tailwind is already configured using PostCSS and works out of the box.
-
-Important files:
-tailwind.config.js → Tailwind configuration
-postcss.config.js → PostCSS setup
-index.css → Tailwind styles
-
 Installation & Setup:
 1. Clone the project:-
    git clone <repo-link>
